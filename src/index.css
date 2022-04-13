@@ -1,0 +1,20 @@
+
+* {
+    margin: 0;
+    padding:0;
+}
+
+
+body {
+    margin: 0;
+    font-family: roboto, arial, helvetica;
+    background-image:url("https://i.postimg.cc/tgjLC7Y9/Design-sem-nome-14.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-color:rgb(255, 255, 255);
+    width:100vh;
+    height:100vh;
+    bottom: 100px;
+
+}
+
